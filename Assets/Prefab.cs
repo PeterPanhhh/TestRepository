@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Script1 : MonoBehaviour
+public class Prefab : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-       
+        
     }
 
     // Update is called once per frame
@@ -16,7 +16,3 @@ public class Script1 : MonoBehaviour
         
     }
 }
-//基础打印事件
-/*Debug.Log
-Debug.LogWarning
-Debug.LogError*/
